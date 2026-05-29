@@ -1,0 +1,2 @@
+E:\ejercicios de Laboratorio\ejercicios 07-05\Sistema de adopcion\obj\Debug\Sistema de adopcion.csproj.AssemblyReference.cache
+E:\ejercicios de Laboratorio\ejercicios 07-05\Sistema de adopcion\obj\Debug\Sistema de adopcion.csproj.CoreCompileInputs.cache
